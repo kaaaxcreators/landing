@@ -162,6 +162,14 @@ button:hover,
 .button.button-soundcloud:hover,
 .button.button-soundcloud:focus {
   filter: brightness(90%) }
+  
+/* StackOverflow */
+.button.button-stack-overflow {
+  color: #FFFFFF;
+  background-color: #ef8236 }
+.button.button-stack-overflow:hover,
+.button.button-stack-overflow:focus {
+  filter: brightness(90%) } 
 
 /* Spectrum */
 .button.button-spectrum {

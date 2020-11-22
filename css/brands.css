@@ -91,6 +91,14 @@ button:hover,
 .button.button-github:focus {
   filter: brightness(90%) }
 
+/* Omegle IP */
+.button.button-omegleip {
+  color: #000000;
+  background-color: #f8f8fa }
+.button.button-omegleip:hover,
+.button.button-omegleip:focus {
+  filter: brightness(90%) }
+
 /* Instagram */
 .button.button-instagram {
   color: #FFFFFF;
@@ -162,14 +170,14 @@ button:hover,
 .button.button-soundcloud:hover,
 .button.button-soundcloud:focus {
   filter: brightness(90%) }
-  
+
 /* StackOverflow */
 .button.button-stack-overflow {
   color: #FFFFFF;
   background-color: #ef8236 }
 .button.button-stack-overflow:hover,
 .button.button-stack-overflow:focus {
-  filter: brightness(90%) } 
+  filter: brightness(90%) }
 
 /* Spectrum */
 .button.button-spectrum {
@@ -194,7 +202,7 @@ button:hover,
 .button.button-steam:hover,
 .button.button-steam:focus {
   filter: brightness(90%) }
-  
+
 /* Telegram */
 .button.button-telegram {
   color: #FFFFFF;
@@ -234,4 +242,3 @@ button:hover,
 .button.button-youtube:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
-

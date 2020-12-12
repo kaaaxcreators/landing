@@ -99,6 +99,15 @@ button:hover,
 .button.button-omegleip:focus {
   filter: brightness(90%) }
 
+  /* Fortnite Bot */
+.button.button-fortnite {
+  color: #000000;
+  background-color: #f8f8fa }
+.button.button-fortnite:hover,
+.button.button-fortnite:focus {
+  filter: brightness(90%) }
+
+
 /* Instagram */
 .button.button-instagram {
   color: #FFFFFF;

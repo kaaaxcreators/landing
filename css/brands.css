@@ -100,11 +100,27 @@ button:hover,
   filter: brightness(90%) }
 
   /* Fortnite Bot */
-.button.button-fortnite {
+.button.button-fortnitebot {
   color: #000000;
   background-color: #f8f8fa }
-.button.button-fortnite:hover,
-.button.button-fortnite:focus {
+.button.button-fortnitebot:hover,
+.button.button-fortnitebot:focus {
+  filter: brightness(90%) }
+
+    /* Discord Bot */
+.button.button-discordbot {
+  color: #000000;
+  background-color: #f8f8fa }
+.button.button-discordbot:hover,
+.button.button-discordbot:focus {
+  filter: brightness(90%) }
+
+    /* Fortnite Bot */
+.button.button-weatherxamarin {
+  color: #000000;
+  background-color: #f8f8fa }
+.button.button-weatherxamarin:hover,
+.button.button-weatherxamarin:focus {
   filter: brightness(90%) }
 
 
